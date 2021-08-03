@@ -14,25 +14,25 @@ For my capstone project, I’m using the data set Chronology of Data Breaches by
 
 **Type of Breach**
 
-CARD𑁋Fraud Involving Debit and Credit Cards Not Via Hacking (skimming devices at point-of-service terminals, etc.)
-HACK𑁋Hacked by an Outside Party or Infected by Malware
-INSD𑁋Insider (employee, contractor or customer)
-PHYS𑁋Physical (paper documents that are lost, discarded or stolen)
-PORT𑁋Portable Device (lost, discarded or stolen laptop, PDA, smartphone, memory stick, CDs, hard drive, data tape, etc.)
-STAT𑁋Stationary Computer Loss (lost, inappropriately accessed, discarded or stolen computer or server not designed for mobility)
-DISC𑁋Unintended Disclosure Not Involving Hacking, Intentional Breach or Physical Loss (sensitive information posted publicly, mishandled or sent to the wrong party via publishing online, sending in an email, sending in a mailing or sending via fax) 
-UNKN𑁋Unknown (not enough information about breach to know how exactly the information was exposed)
+* CARD𑁋Fraud Involving Debit and Credit Cards Not Via Hacking (skimming devices at point-of-service terminals, etc.)
+* HACK𑁋Hacked by an Outside Party or Infected by Malware
+* INSD𑁋Insider (employee, contractor or customer)
+* PHYS𑁋Physical (paper documents that are lost, discarded or stolen)
+* PORT𑁋Portable Device (lost, discarded or stolen laptop, PDA, smartphone, memory stick, CDs, hard drive, data tape, etc.)
+* STAT𑁋Stationary Computer Loss (lost, inappropriately accessed, discarded or stolen computer or server not designed for mobility)
+* DISC𑁋Unintended Disclosure Not Involving Hacking, Intentional Breach or Physical Loss (sensitive information posted publicly, mishandled or sent to the wrong party via publishing online, sending in an email, sending in a mailing or sending via fax) 
+* UNKN𑁋Unknown (not enough information about breach to know how exactly the information was exposed)
 
 **Type of Business**
 
-BSF𑁋Businesses (Financial and Insurance Services)
-BSO𑁋Businesses (Other)
-BSR𑁋Businesses (Retail/Merchant including Online Retail)
-EDU𑁋Educational Institutions
-GOV𑁋Government & Military
-MED𑁋Healthcare, Medical Providers and Medical Insurance Services
-NGO𑁋Nonprofits
-UNKN𑁋Unknow
+* BSF𑁋Businesses (Financial and Insurance Services)
+* BSO𑁋Businesses (Other)
+* BSR𑁋Businesses (Retail/Merchant including Online Retail)
+* EDU𑁋Educational Institutions
+* GOV𑁋Government & Military
+* MED𑁋Healthcare, Medical Providers and Medical Insurance Services
+* NGO𑁋Nonprofits
+* UNKN𑁋Unknow
 
 **Research Question & Implementation**
 
@@ -48,7 +48,9 @@ I created a pie chart showing the percentage of data breaches per organization t
 
 I created a bar graph showing the total number of incidents per breach in which HACK (Hacked by an Outside Party or Infected by Malware) is the type of breach with the highest number of reported incidents per my dataset. 
 
+
 ![image](https://user-images.githubusercontent.com/43500549/127946579-ce080675-cb6d-477c-9bea-b7fee0165c1c.png)
+
 
 The below pie chart shows the top 5 states with the most hacks:
 
