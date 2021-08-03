@@ -1,4 +1,5 @@
 # Data-606-Capstone
+![data breach](https://user-images.githubusercontent.com/43500549/127944516-6f78013c-e1f5-439c-86ac-60376bb5e6da.JPG)
 
 Cybercrime is a growing problem and according to the latest Verizon Data Breach Investigations Report, North America alone accounts for 55% of total data breaches in the world which only 920 incidents were publicly disclosed in 2020 (2020 Data Breach Investigations Report). Recent events such as the SolarWinds (APT𑁋Trojan Horse), the Colonial Pipeline hack (Ransomware), and JBS Foods attacks have affected millions causing tremendous loss and revealed serious gaps in cyber defenses in both public and private organizations. 
 
