@@ -34,10 +34,12 @@ For my capstone project, I’m using the data set Chronology of Data Breaches by
 * NGO𑁋Nonprofits
 * UNKN𑁋Unknow
 
-**Research Question & Implementation**
+**Research Question & Implementation** (In construction)
 
 1.Accurately classify the types of breaches per industry.
+
 2.Perform K-means in order to determine the optimal number of breach categories.
+
 3.Conduct an NLP model to predict type of Breach based on Description of Incident (text).
 
 
