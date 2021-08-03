@@ -56,7 +56,7 @@ The below pie chart shows the top 5 states with the most hacks:
 ![image](https://user-images.githubusercontent.com/43500549/127946982-6567b3ca-1c0b-4e03-ba79-41fa8b075bcd.png)
 
 
-After cleaning and parsing my text data from column Description of Incident, I was able to create the below worldcloud showing the most frequently occuring words. 
+After cleaning and parsing my text data, I was able to create the below worldcloud showing the most frequently occuring words. 
 
 ![image](https://user-images.githubusercontent.com/43500549/127946805-188122f0-585e-42e9-af9c-43fae9fdf67a.png)
 
