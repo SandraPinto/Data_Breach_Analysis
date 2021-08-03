@@ -63,10 +63,10 @@ After cleaning and parsing my text data, I was able to create the below wordclou
 
 **Sources:**
 
-*2020 Data Breach Investigations Report. (n.d.). Verizon Enterprise Solutions. Retrieved April 19, 2021, from https://enterprise.verizon.com/resources/reports/2020-data-breach-investigations-report.pdf
-*Thompson, T. (n.d.). The Colonial Pipeline cyber attack and the SolarWinds hack were all but inevitable. Why national cyber defense is a “wicked” problem—Virginia Mercury. Retrieved June 14, 2021, from https://www.virginiamercury.com/2021/05/13/the-colonial-pipeline-cyber-attack-and-the-solarwinds-hack-were-all-but-inevitable-why-national-cyber-*defense-is-a-wicked-problem/ 
-*James. (2019, October 7). Using NLP to Analyse Organisational trends in Data Breaches. Medium. https://medium.com/@jameskay_25745/using-nlp-to-analyse-organisational-trends-in-data-breaches-cc47053224f9
-*Industry use case:  https://www.accenture.com/_acnmedia/PDF-106/Accenture-Unlocking-Value-Unstructured-Data.pdf 
-*Dataset:
-Data Breaches | Privacy Rights Clearinghouse. (n.d.). Retrieved June 14, 2021, from https://privacyrights.org/data-breaches
+* 2020 Data Breach Investigations Report. (n.d.). Verizon Enterprise Solutions. Retrieved April 19, 2021, from https://enterprise.verizon.com/resources/reports/2020-data-breach-investigations-report.pdf!
+* Thompson, T. (n.d.). The Colonial Pipeline cyber attack and the SolarWinds hack were all but inevitable. Why national cyber defense is a “wicked” problem—Virginia Mercury. Retrieved June 14, 2021, from https://www.virginiamercury.com/2021/05/13/the-colonial-pipeline-cyber-attack-and-the-solarwinds-hack-were-all-but-inevitable-why-national-cyber-*defense-is-a-wicked-problem/!
+* James. (2019, October 7). Using NLP to Analyse Organisational trends in Data Breaches. Medium. https://medium.com/@jameskay_25745/using-nlp-to-analyse-organisational-trends-in-data-breaches-cc47053224f9!
+* Industry use case:  https://www.accenture.com/_acnmedia/PDF-106/Accenture-Unlocking-Value-Unstructured-Data.pdf! 
+* Dataset:
+Data Breaches | Privacy Rights Clearinghouse. (n.d.). Retrieved June 14, 2021, from https://privacyrights.org/data-breaches!
 
