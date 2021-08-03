@@ -42,7 +42,7 @@ UNKN𑁋Unknow
 2. Conduct an NLP model to predict type of Breach based on Description of Incident (text)
 
 
-**PHASE II- EDA & MODEL CONSTRUCTION"
+**PHASE II- EDA & MODEL CONSTRUCTION**
 
 I created a pie chart showing the percentage of data breaches per organization type in which shows that the type of organizanations which the most data breach incidents are MED (Healthcare, Medical Providers and Medical Insurance Services) and BSO(Businesses𑁋Other)
 ![image](https://user-images.githubusercontent.com/43500549/127945528-8e579d6a-0152-4c34-9156-bbdc132a1cfd.png)
