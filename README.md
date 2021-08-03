@@ -1,4 +1,4 @@
-# Analyzing Data Breaches with Python 
+# Analyzing Data Breach Incidents with Python 
 ![data breach](https://user-images.githubusercontent.com/43500549/127944516-6f78013c-e1f5-439c-86ac-60376bb5e6da.JPG)
 
 **PHASE I- PROJECT OVERVIEW**
