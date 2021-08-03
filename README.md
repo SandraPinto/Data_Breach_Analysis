@@ -11,7 +11,7 @@ For instance, companies such as Accenture are using Natural Language processing 
 **Data Set**
 For my capstone project, I’m using the data set Chronology of Data Breaches by the Privacy Rights Clearinghouse, a nonprofit organization that empowers individuals and advocates for positive change within the ever-changing privacy landscape. Most of the data was sourced from State Attorneys General and  the U.S. Department of Health and Human Services which is regularly updated. The units of analysis are the following: City, state, company, type of breach, type of industry, Description of incident, the date made public, the source, the year of breach, the number of total records, the URL, the latitude, and longitude, and etc. The Data Set is composed of 13 columns, 9015 rows, 4375 KB (4.375 MB), and contains both numerical and text data. 
 
-**Data Elements:
+**Data Elements:**
 
 **Type of Breach**
 
