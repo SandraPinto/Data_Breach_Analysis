@@ -37,9 +37,9 @@ UNKN𑁋Unknow
 
 **Research Question & Implementation**
 
-1.Accurately classify the types of breaches per industry
-   1. Perform K-means in order to determine the optimal number of breach categories
-2. Conduct an NLP model to predict type of Breach based on Description of Incident (text)
+1.Accurately classify the types of breaches per industry.
+2.Perform K-means in order to determine the optimal number of breach categories.
+3.Conduct an NLP model to predict type of Breach based on Description of Incident (text).
 
 
 **PHASE II- EDA & MODEL CONSTRUCTION**
