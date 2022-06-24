@@ -1,7 +1,7 @@
-# Analyzing Data Breach Incidents with Machine Learning
+# Analyzing Data Breach Incidents with Python
 ![data breach](https://user-images.githubusercontent.com/43500549/127944516-6f78013c-e1f5-439c-86ac-60376bb5e6da.JPG)
 
-**PHASE I- PROJECT OVERVIEW**
+**PROJECT OVERVIEW**
 
 Cybercrime is a growing problem and according to the latest Verizon Data Breach Investigations Report, North America alone accounts for 55% of total data breaches in the world which only 920 incidents were publicly disclosed in 2020 (2020 Data Breach Investigations Report). Recent events such as the SolarWinds (APT𑁋Trojan Horse), the Colonial Pipeline hack (Ransomware), and JBS Foods attacks have affected millions causing tremendous loss and revealed serious gaps in cyber defenses in both public and private organizations. 
 
@@ -34,16 +34,8 @@ For my capstone project, I’m using the data set Chronology of Data Breaches by
 * NGO𑁋Nonprofits
 * UNKN𑁋Unknow
 
-**Research Question & Implementation** (In construction)
 
-1.Accurately classify the types of breaches per industry.
-
-2.Perform K-means in order to determine the optimal number of breach categories.
-
-3.Conduct an NLP model to predict type of Breach based on Description of Incident (text).
-
-
-**PHASE II- EDA & MODEL CONSTRUCTION**
+**EDA & MODEL CONSTRUCTION**
 
 I created a pie chart showing the percentage of data breaches per organization type in which shows that the type of organizanations which the most data breach incidents are MED (Healthcare, Medical Providers and Medical Insurance Services) and BSO(Businesses𑁋Other)
 ![image](https://user-images.githubusercontent.com/43500549/127945528-8e579d6a-0152-4c34-9156-bbdc132a1cfd.png)
